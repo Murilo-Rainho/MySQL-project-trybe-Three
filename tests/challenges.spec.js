@@ -4,6 +4,7 @@ const Importer = require('mysql-import');
 
 describe('Queries de seleção', () => {
   let sequelize;
+  jest.setTimeout(30000);
 
   beforeAll(async () => {
     const importer = new Importer(

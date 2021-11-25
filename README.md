@@ -10,5 +10,5 @@
 
 ---
 
-[Esse foi o repositório do meu projeto.](https://github.com/tryber/sd-013-a-mysql-one-for-all)
+[This is my project rep.](https://github.com/tryber/sd-013-a-mysql-one-for-all)
 My branch: murilo-rainho-one-for-all
